@@ -5,16 +5,16 @@ It provides secure APIs for hotel, room, and user management with authentication
 
 ---
 
-## 🚀 Features
-- 🔐 User authentication with **JWT** + **cookies**
-- 🏨 CRUD operations for Hotels & Rooms
-- 👤 Role-based access (Admin / User)
-- 📡 RESTful API architecture
-- 🧪 Tested using **Insomnia**
+## Features
+- User authentication with **JWT** + **cookies**
+- CRUD operations for Hotels & Rooms
+- Role-based access (Admin / User)
+- RESTful API architecture
+- Tested using **Insomnia**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 bookingapp/
 │── index.js # Entry point
 │── models/ # MongoDB models (User, Hotel, Room)
