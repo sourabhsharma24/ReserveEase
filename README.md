@@ -16,13 +16,13 @@ It provides secure APIs for hotel, room, and user management with authentication
 
 ## Project Structure
 bookingapp/
-│── index.js # Entry point
-│── models/ # MongoDB models (User, Hotel, Room)
-│── routes/ # Express routes
-│── controllers/ # Business logic
-│── utils/ # Helper functions
-│── .env # Environment variables
-│── package.json
+- │── index.js # Entry point
+- │── models/ # MongoDB models (User, Hotel, Room)
+- │── routes/ # Express routes
+- │── controllers/ # Business logic
+- │── utils/ # Helper functions
+- │── .env # Environment variables
+- │── package.json
 
 ##  Install dependencies
 -   npm install
